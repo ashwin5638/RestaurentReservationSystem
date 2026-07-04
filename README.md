@@ -1,3 +1,6 @@
+<img width="1920" height="1080" alt="Screenshot 2026-07-04 084006" src="https://github.com/user-attachments/assets/13d773cd-edbb-4067-9eb4-7acd25159d10" />
+<img width="1920" height="1080" alt="Screenshot 2026-07-04 083930" src="https://github.com/user-attachments/assets/c6bad5ee-08fe-40ac-9b6d-3028e0736e21" />
+<img width="1920" height="1080" alt="Screenshot 2026-07-04 083918" src="https://github.com/user-attachments/assets/6bc89eed-18dd-4a05-bac3-3476bfe8a3d8" />
 # Restaurant Reservation Management System
 
 A full-stack Restaurant Reservation Management System built with **React, Node.js, Express.js, and MongoDB**. The application enables customers to reserve restaurant tables while providing administrators with tools to manage reservations and tables through secure role-based access.
@@ -197,3 +200,7 @@ npm run dev
 **Ashwin**
 
 GitHub: https://github.com/ashwin5638
+<img width="1920" height="1080" alt="Screenshot 2026-07-04 084006" src="https://github.com/user-attachments/assets/4bc895ac-dc0c-49a1-a579-edd798fc9151" />
+<img width="1920" height="1080" alt="Screenshot 2026-07-04 083930" src="https://github.com/user-attachments/assets/53f21a20-b16a-44a3-8f79-8920105baa0e" />
+<img width="1920" height="1080" alt="Screenshot 2026-07-04 083918" src="https://github.com/user-attachments/assets/8782f69a-e125-48cd-98e5-76f136bb7ad1" />
+
